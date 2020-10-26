@@ -1,6 +1,8 @@
 import random
+# definiuje losową liczbę z zakresu od 1 do 100
 x = random.randint(1, 100)
 print(x)
+
 usernum = 0
 gorna = 100
 dolna = 1
